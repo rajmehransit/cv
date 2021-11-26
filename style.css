@@ -13,9 +13,16 @@ body{
     padding-top: 10 0px;
 
 }
-.footer-link{
-  margin:20px;
+
+.contact-me{
+  width: 50% auto;
+  margin-bottom: 20px;
 }
+.footer-link{
+  background-color:#E4F9F5;
+}
+.discription{
+  color: #30e3cb;
 hr{
   color: grey;
 
