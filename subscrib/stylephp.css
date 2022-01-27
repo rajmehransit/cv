@@ -1,0 +1,26 @@
+body{ 
+    
+
+    text-align: center;
+   
+
+    background-color:#E4F9F5;
+    font-size: x-large;
+  }
+  .form-input{
+      height: 70px;
+
+  }
+  .contactFrm{
+      background-color: rgb(47, 171, 187);
+      width: 30%;
+      border-style:solid;
+      margin-left:35%;
+      margin-top:2%;
+      height: 80%;
+      
+  }
+  .tital{
+      font-size: xx-large;
+      height: 85px;
+  }
