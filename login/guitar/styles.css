@@ -17,7 +17,7 @@ footer {
 }
 
 .keyboard {
-  background-image: url('piano.png');
+  background-image: url('guitar.png');
   background-position: center;
   background-size: contain;
   height:400px;
@@ -43,6 +43,19 @@ footer {
 
 .black{
   top:200px;
+}
+.white2{
+  top:110px;
+}
+
+.black2{
+  top:90px;
+}
+.white3{
+  top:40px;
+}
+.black3{
+  top:130px;
 }
 
 #w{
