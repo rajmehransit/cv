@@ -4,7 +4,7 @@ $toEmail = 'rajmehra09887766@gmail.com';
 $fromName = 'Sender Name';
 $formEmail = 'sender@example.com';
 
-$conn = new PDO('mysql:host=localhost;port=3307;dbname=db','root','');
+$conn = new PDO('mysql:host=localhost;dbname=db','root','');
 
   
 $postData = $statusMsg = $valErr = '';
